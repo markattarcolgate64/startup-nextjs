@@ -6,9 +6,9 @@ const testimonialData: Testimonial[] = [
   {
     id: 1,
     name: "Musharof Chy",
-    designation: "Founder @TailGrids",
+    designation: "Laundromat Owner",
     content:
-      "Our members are so impressed. It's intuitive. It's clean. It's distraction free. If you're building a community.",
+      "As a laundromat owner, I found Sloop's personalized approach transformative, making the M&A process seamless and tailored to my business's unique needs.",
     image: "/images/testimonials/auth-01.png",
     star: 5,
   },
@@ -17,16 +17,16 @@ const testimonialData: Testimonial[] = [
     name: "Devid Weilium",
     designation: "Founder @UIdeck",
     content:
-      "Our members are so impressed. It's intuitive. It's clean. It's distraction free. If you're building a community.",
+      "Partnering with Sloop transformed our M&A experience, blending seamless execution with personalized insights.'",
     image: "/images/testimonials/auth-02.png",
     star: 5,
   },
   {
     id: 3,
     name: "Lethium Frenci",
-    designation: "Founder @Lineicons",
+    designation: "Founder @WashyCars",
     content:
-      "Our members are so impressed. It's intuitive. It's clean. It's distraction free. If you're building a community.",
+      "Partnering with Sloop transformed our M&A experience—personalized, expert support at every turn made all the difference.",
     image: "/images/testimonials/auth-03.png",
     star: 5,
   },
@@ -37,8 +37,8 @@ const Testimonials = () => {
     <section className="dark:bg-bg-color-dark bg-gray-light relative z-10 py-16 md:py-20 lg:py-28">
       <div className="container">
         <SectionTitle
-          title="What Our Users Says"
-          paragraph="There are many variations of passages of Lorem Ipsum available but the majority have suffered alteration in some form."
+          title="What Early Adopters have said"
+          paragraph="Early adopters have praised our hands-on support and bespoke strategies, saying, 'With Sloop, it felt like having a dedicated M&A expert right in our team.'"
           center
         />
 
